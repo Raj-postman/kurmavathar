@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Woody",
+        "description": "Reach for the sky",
+        "version": 1.0.1,
+        "handles": [
+            {
+                "source": "Purchase",
+                "handle": "Andy"
+            },
+            {
+                "source": "Donation",
+                "handle": "Bonnie"
+            }
+        ]
+    },
+    {
+        "name": "Buzz Light Year",
+        "description": "To Infinity and Beyond",
+        "handles": [
+            {
+                "source": "Birthday Present",
+                "handle": "Andy"
+            },
+            {
+                "source": "Donation",
+                "handle": "Bonnie"
+            }
+        ]
+    }
+]
