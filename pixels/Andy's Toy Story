@@ -34,7 +34,8 @@
         "handles": [
             {
                 "source": "Creation",
-                "handle": "Bonnie"
+                "handle": "Bonnie",
+                "destination: "Kindergarten",
             }
         ]
     }
