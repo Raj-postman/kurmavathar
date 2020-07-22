@@ -1,6 +1,7 @@
 [
     {
         "name": "Woody",
+        "swagger": "3.0",
         "description": "Reach for the sky",
         "version": 1.0,
         "handles": [
