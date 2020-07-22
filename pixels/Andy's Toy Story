@@ -1,7 +1,8 @@
 [
     {
         "openapi": "3.0",
-        "swagger": "2.0",
+        "swagger": "2.0"
+        {
         "name": "Woody",
         "description": "Reach for the sky",
         "version": 1.0,
@@ -39,5 +40,5 @@
                 "handle": "Bonnie"
             }
         ]
-    }
+    }}
 ]
