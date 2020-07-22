@@ -2,7 +2,7 @@
     {
         "name": "Woody",
         "description": "Reach for the sky",
-        "version": 1.0.1,
+        "version": 1.0,
         "handles": [
             {
                 "source": "Purchase",
@@ -34,8 +34,7 @@
         "handles": [
             {
                 "source": "Creation",
-                "handle": "Bonnie",
-                "destination": "Kindergarten"
+                "handle": "Bonnie"
             }
         ]
     }
