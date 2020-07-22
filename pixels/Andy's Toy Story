@@ -27,5 +27,15 @@
                 "handle": "Bonnie"
             }
         ]
+    },
+    {
+        "name": "Forky",
+        "description": "I'm Trash",
+        "handles": [
+            {
+                "source": "Creation",
+                "handle": "Bonnie"
+            }
+        ]
     }
 ]
