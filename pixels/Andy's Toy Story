@@ -1,8 +1,7 @@
 [
     {
         "openapi": "3.0",
-        "swagger": "2.0"
-        {
+        "swagger": "2.0",
         "name": "Woody",
         "description": "Reach for the sky",
         "version": 1.0,
@@ -20,6 +19,7 @@
     {
         "name": "Buzz Light Year",
         "description": "To Infinity and Beyond",
+        "version": 1.0,
         "handles": [
             {
                 "source": "Birthday Present",
@@ -34,11 +34,12 @@
     {
         "name": "Forky",
         "description": "I'm Trash",
+        "version": 1.0,
         "handles": [
             {
                 "source": "Creation",
                 "handle": "Bonnie"
             }
         ]
-    }}
+    }
 ]
