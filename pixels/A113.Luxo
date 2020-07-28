@@ -16,7 +16,7 @@
   "paths": {
     "/pets": {
       "get": {
-        "summary": "PetListing",
+        "summary": "First Request",
         "operationId": "listPets",
         "tags": [
           "pets"
@@ -65,7 +65,7 @@
         }
       },
       "post": {
-        "summary": "Second Request",
+        "summary": "Second Request Renamed",
         "operationId": "createPets",
         "tags": [
           "pets"
