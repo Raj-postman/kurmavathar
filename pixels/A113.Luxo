@@ -96,10 +96,10 @@
         ],
         "parameters": [
           {
-            "name": "petId",
+            "name": "ToyId",
             "in": "path",
             "required": true,
-            "description": "The id of the pet to be taken",
+            "description": "The id of the Toy to be taken",
             "schema": {
               "type": "string"
             }
