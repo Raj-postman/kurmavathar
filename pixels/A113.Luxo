@@ -33,6 +33,17 @@
             }
           }
         ],
+        "parameters": [
+          {
+            "name": "ToyId",
+            "in": "path",
+            "required": true,
+            "description": "The id of the Toy to be taken",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
         "responses": {
           "200": {
             "description": "A paged array of pets",
