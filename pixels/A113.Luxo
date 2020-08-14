@@ -31,9 +31,7 @@
               "type": "integer",
               "format": "int32"
             }
-          }
-        ],
-        "parameters": [
+          },
           {
             "name": "ToyId",
             "in": "path",
