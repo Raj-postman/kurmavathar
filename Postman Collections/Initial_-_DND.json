@@ -1,0 +1,24 @@
+{
+  "info": {
+    "_postman_id": "7157d97a-e286-4893-a341-2adcbee471cb",
+    "name": "Initial - DND",
+    "description": "Private API Network\n\nCollection published on custom domain: website.subdex.space",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Custom domain",
+      "_postman_id": "5b573b7e-4f52-4d08-8240-ead4e2017c36",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "http://website.subdex.space",
+        "description": "Description"
+      },
+      "response": []
+    }
+  ]
+}
