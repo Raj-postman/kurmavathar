@@ -1,7 +1,7 @@
 {
   "info": {
     "_postman_id": "7157d97a-e286-4893-a341-2adcbee471cb",
-    "name": "Initial - DND",
+    "name": "Monitor with All roles",
     "description": "Private API Network\n\nCollection published on custom domain: website.subdex.space",
     "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
   },
